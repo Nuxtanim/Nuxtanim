@@ -5,7 +5,7 @@ I'm a passionate and experienced Software Developer specializing in front-end de
 ## 🔧 Technologies & Tools
 
 - **Frontend Development:**
-  - Vue.js
+  -  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /> Vue.js
   - React.js
   - JavaScript (ES6+)
   - HTML5, CSS3
